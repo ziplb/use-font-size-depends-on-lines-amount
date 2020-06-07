@@ -1,0 +1,14 @@
+{
+  "name": "use-font-size-depends-on-lines-amount",
+  "version": "1.0.0",
+  "description": "React hook that determines the font size depending on the number of lines",
+  "main": "index.js",
+  "keywords": [
+    "js",
+    "react",
+    "react-js",
+    "react-hook"
+  ],
+  "author": "Yaroslav Illiashenko <iam.ziplb@gmail.com>",
+  "license": "ISC"
+}
