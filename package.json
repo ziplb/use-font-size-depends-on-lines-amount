@@ -9,6 +9,13 @@
     "react-js",
     "react-hook"
   ],
+  "scripts": {
+    "storybook": "start-storybook --port 7777"
+  },
   "author": "Yaroslav Illiashenko <iam.ziplb@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/react": "^5.3.19",
+    "babel-loader": "^8.1.0"
+  }
 }
